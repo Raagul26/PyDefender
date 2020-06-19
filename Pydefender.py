@@ -1,3 +1,5 @@
+# PyDefender
+# Author: Raagul26, Gowtham758550
 from virustotal_python import Virustotal
 import hashlib
 import os
