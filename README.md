@@ -1,5 +1,11 @@
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)]()
-
-
 # Virus-Scanner
-Scanning virus program using virustotal python API
+
+##### Scan url, files to check that is malicious or not using [Virustotal Python API](https://pypi.org/project/virustotal-python/).
+
+## Setup and Installation
+
+## Usage
+
+## Features
+* Scan file
+* Scan url
