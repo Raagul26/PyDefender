@@ -1,6 +1,6 @@
 # Virus-Scanner
 
-##### Scan url, files to check that is malicious or not using [Virustotal Python API](https://pypi.org/project/virustotal-python/).
+#### Scans url and files to check that is malicious or not using [Virustotal Python API](https://pypi.org/project/virustotal-python/).
 
 ## Setup and Installation
       
