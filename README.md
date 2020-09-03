@@ -4,8 +4,8 @@
 
 ## Setup and Installation
       
-      >> pip install virustotal_python
-      >> python3 Pydefender.py
+    >> pip install virustotal_python
+    >> python3 Pydefender.py
 
 ## Usage
     You will need a key to scan.
